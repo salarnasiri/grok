@@ -12,12 +12,12 @@ A simple library to parse grok patterns with Go.
 Make sure you have a working Go environment.
 
 ```sh
-go get github.com/vjeantet/grok
+go get github.com/salarnasiri/grok
 ```
 
 # Use in your project
 ```go
-import "github.com/vjeantet/grok"
+import "github.com/salarnasiri/grok"
 ```
 
 # Usage
@@ -45,7 +45,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/vjeantet/grok"
+	"github.com/salarnasiri/grok"
 )
 
 func main() {
@@ -94,7 +94,7 @@ package main
 import (
   "fmt"
 
-  "github.com/vjeantet/grok"
+  "github.com/salarnasiri/grok"
 )
 
 func main() {
